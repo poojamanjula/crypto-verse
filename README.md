@@ -6,8 +6,6 @@
 ### Version 1 : 
 Project: Crypto verse website with complete authentication made using React.js
 ### Documentation
-For detailed documentation, refer to [Project Documentation](https://drive.google# Crypto verse
-
 # CRYPTO VERSE REACT APP
 
 -----
