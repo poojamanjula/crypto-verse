@@ -40,8 +40,7 @@ Version 1 completed and hosted
 
 Version 2 Progress: 50%
 
-This is a Crypto verse website which specializes in daily news activities. The website provides daily news updates, regular news in each category, and a user-friendly experience.
-
+This is a Crypto verse website delivering the latest crypto news, market trends, and blockchain updates. Stay informed on Bitcoin, Ethereum, NFTs, and DeFi. 
 We have done this project and tried to manipulate DOM elements, style using CSS, and make the website more dynamic and responsive. With my efforts and the technology stack that I have learned till Unit-4 in the Masai School, I am able to design the whole website with some functionalities & features.
 
 # Technology Stack Used 🌟
