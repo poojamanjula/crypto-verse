@@ -17,7 +17,7 @@ For detailed documentation, refer to [Project Documentation](https://drive.googl
 ### Documentation
 For detailed project Documentation , refer to [Documentation](https://drive.google.com/drive/folders/1uWSAA1DHTdVttzEEkPV1_O6PAys0kM7I?usp=drive_link).
 ### Demo video
-for Detailed Demo video , refer to [project Demo video](https://drive.google.com/drive/folders/1uWSAA1DHTdVttzEEkPV1_O6PAys0kM7I?usp=drive_link).
+for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1cII4nwL5fmp3Dqnmg2fD6h076TqAkUBo/view?usp=drive_link).
 
 J.Pooja
 [Email](pooja90031@gmail.com)
